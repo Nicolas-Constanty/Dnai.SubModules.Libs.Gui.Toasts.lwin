@@ -4,7 +4,7 @@ CONFIG += c++14
 CONFIG += staticlib
 CONFIG -= app_bundle
 
-TARGET = WinToast
+TARGET = wintoast
 DESTDIR = $$PWD/../
 
 TEMPLATE = lib
