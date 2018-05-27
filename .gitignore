@@ -1,0 +1,12 @@
+
+x64/
+
+release/
+
+debug/
+
+*.user
+
+*.filters
+
+*.vcxproj
